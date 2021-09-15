@@ -3,6 +3,8 @@
 
 // Print the full message after deleting every vowel.
 
-![Screenshot](./img/img.png)
+
+![Screenshot](./img/img.PNG)
+
 
 
