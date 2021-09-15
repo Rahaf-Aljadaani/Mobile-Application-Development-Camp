@@ -3,6 +3,6 @@
 
 // Print the full message after deleting every vowel.
 
-![Screenshot](./Write-Your-First-Program/img.png)
+![Screenshot](./img/img.png)
 
 
