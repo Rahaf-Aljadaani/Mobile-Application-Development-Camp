@@ -1,7 +1,7 @@
 First android app in the camp.
 
-![Screenshot](firstapp.png)
 
+![Screenshot](./img/firstapp.PNG)
 
 
 
