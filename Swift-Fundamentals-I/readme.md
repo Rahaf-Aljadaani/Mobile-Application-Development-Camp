@@ -3,5 +3,5 @@ Swift Fundamentals I
 
 output
 
-![Screenshot](./img/171.PNG)
+![Screenshot](./img/172.PNG)
 
