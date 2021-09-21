@@ -7,9 +7,11 @@ for i in 1...255 {
 //Swap two random values in the array
 arr.swapAt(Int.random(in: 1...255),Int.random(in : 1...255))
 //Now write the code that swaps random values 100 times (You've created a "Shuffle"!)
-for i in 1...100 {
-    arr.swapAt(Int.random(in: 1...255),Int.random(in: 1...255))
-}
+//for i in 1...100 {
+  //  arr.swapAt(Int.random(in: 1...255),Int.random(in: 1...255))
+//}
+
+arr = arr.shuffled()
 
 // Remove the value "42" from the array and Print "We found the answer to the Ultimate Question of Life,
 // the Universe, and Everything at index __" and print the index of where "42" was before you removed it.
