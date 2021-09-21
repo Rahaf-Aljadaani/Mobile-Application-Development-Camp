@@ -5,10 +5,10 @@ for i in 1...255 {
     arr.append(i)
 }
 //Swap two random values in the array
-arr.swapAt(Int.random(in: 1...255),Int.random(in : 1...255))
+arr.swapAt(Int.random(in: 0..<255),Int.random(in : 0..<255))
 //Now write the code that swaps random values 100 times (You've created a "Shuffle"!)
 //for i in 1...100 {
-  //  arr.swapAt(Int.random(in: 1...255),Int.random(in: 1...255))
+  //  arr.swapAt(Int.random(in: 0...<255),Int.random(in: 0...<255))
 //}
 
 arr = arr.shuffled()
