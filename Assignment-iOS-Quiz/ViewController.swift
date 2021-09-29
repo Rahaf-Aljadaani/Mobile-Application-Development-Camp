@@ -47,11 +47,8 @@ class ViewController: UIViewController {
            
             // set questionLabel's text to equal quizBank[currentQuestion].0
             // set answerLabel's text to equal quizBank[currentQuestion].1
-            
-            questionLabel.attributedText = NSAttributedString(string: quizBank[currentQuestion].0)
-            answerLabel.attributedText  = NSAttributedString(string: quizBank[currentQuestion].1)
-            // questionLabel.text = quizBank[currentQuestion].0
-           // answerLabel.text = quizBank[currentQuestion].1
+            questionLabel.text = quizBank[currentQuestion].0
+            answerLabel.text = quizBank[currentQuestion].1
             
             // then set answerLabel to be hidden
                 answerLabel.isHidden = true
