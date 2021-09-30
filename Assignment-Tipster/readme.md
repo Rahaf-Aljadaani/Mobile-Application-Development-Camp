@@ -1,4 +1,4 @@
 # Assignment: Tipster
 
-There is a Demo video for the game
+There is a Demo video for the Tipster
 
